@@ -1,0 +1,20 @@
+.circle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 1em;
+}
+
+.circles {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+button {
+  padding: 2em;
+  width: 100px;
+  margin: 0 auto;
+}
